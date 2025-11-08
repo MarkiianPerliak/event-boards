@@ -1,6 +1,6 @@
 import './App.css';
 import data from "./upcoming-events.json"
-import {PageBoard} from "./components/PageBoard.jsx"
+import {PageBoard} from "./components/PageBoard/PageBoard.jsx"
 import styled from "styled-components";
 
 export const App = () => {
